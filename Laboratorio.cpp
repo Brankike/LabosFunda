@@ -1,7 +1,6 @@
 #include <iostream>
-using namespace std;
+using namespace std; /*con plecas se deja la comentarios*/
 int main()
 {
     cout << "Hola Mundo" << endl;
 }
-/*con plecas se deja la comentarios*/
